@@ -10,4 +10,6 @@ const changeContent = () => {
     })
 }
 
+alert("おいしい！")
+
 export { changeContent }
